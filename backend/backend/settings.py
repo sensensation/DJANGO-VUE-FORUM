@@ -122,4 +122,9 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-##testirovanie##
+#MERGE THIS#
+#MERGE THIS#
+#MERGE THIS#
+#MERGE THIS#
+#MERGE THIS#
+#MERGE THIS#
